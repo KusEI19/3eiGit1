@@ -3,6 +3,6 @@ Wybrałem **ZSTI**, ponieważ spośród innych szkół jakie miałem na oku wyda
 ### Co mi się podoba w ZSTI?
 Podoba mi się to, że sporej większości nauczycieli na prawdę zależy, żeby nas czego nauczyć. Również to, że panuje tutaj przyjemna atmosfera.
 ### Co zmieniłbym w ZSTI?
-Wydaje mi się, że nie ma takiej rzeczy, która na tyle by mi przeszkadzała, że chciałym ją zmienić. Dobrze się tutaj czuję.
+Wydaje mi się, że nie ma takiej rzeczy, która na tyle by mi przeszkadzała bym chciałym ją zmienić. Dobrze się tutaj czuję.
 ### Moje zdjęcie
 ![Moje zdjęcie](zdjecie.jpg.png)
